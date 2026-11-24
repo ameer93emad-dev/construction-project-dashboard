@@ -6,3 +6,12 @@ Edit tasks, dates, budget, actual cost and completion percentage. The reporting 
 Limitations: no critical path, dependencies, resource leveling, multi-user collaboration or audited financial controls. This is a prototype, not a replacement for Primavera or professional project controls. No client data is included.
 
 Contributions and bug reports are welcome. MIT license.
+
+[Open the live demo](https://ameer93emad-dev.github.io/construction-project-dashboard/)
+
+![Screenshot of BuildTrack with demonstration data](preview.jpg)
+
+## Try the demo
+
+Move the reporting date while keeping the task inputs fixed. Planned progress changes with the date. Actual progress comes from the completion percentages you enter. The starting tasks, costs and dates are demonstration data.
+
